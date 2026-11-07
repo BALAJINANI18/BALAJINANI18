@@ -2,6 +2,11 @@
 
 <!-- Animated gradient hero banner -->
 <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:7e22ce&height=110&section=footer"
+  width="100%"
+  alt="Cyan and purple gradient footer"
+/>
+<img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:7e22ce&height=220&section=header&text=Dudem%20Sri%20Balaji&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Java%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20DSA%20Learner&descSize=17&descAlignY=58&animation=fadeIn"
   width="100%"
   alt="Dudem Sri Balaji — Java Developer, AI and ML Enthusiast"
