@@ -128,8 +128,8 @@ I enjoy turning concepts into working applications. Explore my repositories for 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALAJINANI18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="175" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJINANI18&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=6" height="175" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BALAJINANI18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="175" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BALAJINANI18&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=6" height="175" alt="Most used languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=BALAJINANI18&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
 </div>
